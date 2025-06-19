@@ -1,5 +1,5 @@
 title: DReaMS
-description: DReaMS – Data, Research, and Medical Software
+description: Data-Driven Research Software Management for UMCs
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
