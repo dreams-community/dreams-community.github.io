@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# DReaMS
+<div style="display: flex; align-items: center; margin-bottom: 2rem;">
+  <img src="assets\images\DReaMS_dark_mode_pill_bg.png" alt="DReaMS Logo" style="height: 50px; margin-right: 20px;">
+</div>
 
 DReaMS is a collaborative initiative to improve research software practices in academic medical centers.
 
