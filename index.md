@@ -3,8 +3,6 @@ layout: home
 title: Welcome to DReaMS
 ---
 
-# DReaMS
-
 DReaMS is a collaborative initiative to improve research software practices in academic medical centers.
 
 ## Mission Statement
