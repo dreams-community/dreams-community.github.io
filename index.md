@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 2rem;">
-  <img src="assets\images\DReaMS_dark_mode_pill_bg.png" alt="DReaMS Logo" style="height: 50px; margin-right: 20px;">
-</div>
-
 DReaMS is a collaborative initiative to improve research software practices in academic medical centers.
 
 ## Mission Statement
@@ -26,6 +22,6 @@ This marks a step toward coordinated, institution-level RSM across the Dutch UMC
 
 Read more about the meeting in [this blog post](https://blog.esciencecenter.nl/how-is-research-software-managed-at-umcs-insights-from-a-first-meetup-4181e9626a60)
 
-<!-- TODO: Add summary blogpost -->
+---
 
 Check out the [About page](about.md) to learn more.
