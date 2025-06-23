@@ -1,7 +1,7 @@
 main:
-  - title: "Home"
+  - title: "home"
     url: "/"
-  - title: "About"
+  - title: "about"
     url: "/about/"
-  - title: "Contact"
+  - title: "contact"
     url: "/contact/"

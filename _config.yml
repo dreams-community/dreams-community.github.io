@@ -1,5 +1,28 @@
 title: DReaMS
 description: Research Software Management for UMCs
-remote_theme: "mmistakes/minimal-mistakes"
+url: "https://dreams-community.github.io"
+baseurl: ""
+
+theme: minimal-mistakes-jekyll
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      prev_next: false
+      # paginate: false
+
+
+minimal_mistakes_skin: default

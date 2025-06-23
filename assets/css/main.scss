@@ -1,0 +1,27 @@
+---
+---
+
+$link-color: #7bbac3;
+
+@import "minimal-mistakes";
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  color: #fec662;
+}
+
+.page__title a {
+  color: #1e3f76 !important;
+}
+
+// .masthead .greedy-nav .site-title {
+//   color: #7bbac3 !important;
+// }
+
+.masthead__menu-item a {
+  color: #7bbac3 !important;
+}
