@@ -1,7 +1,17 @@
 ---
 ---
 
-$link-color: #7bbac3;
+// personal colors
+$myblue: #1e3f76 !default;
+$myaqua: #7bbac3 !default;
+$myyellow: #fec662 !default;
+
+// minimal-mistakes 
+$link-color: $myaqua !default;
+$masthead-link-color: $myaqua !default;
+$masthead-link-color-hover: $myaqua !default;
+
+$doc-font-size: 12px !default;
 
 @import "minimal-mistakes";
 
@@ -11,17 +21,53 @@ $link-color: #7bbac3;
 .page__content h4,
 .page__content h5,
 .page__content h6 {
-  color: #fec662;
+  color: $myyellow;
 }
 
 .page__title a {
-  color: #1e3f76 !important;
+  color: $myblue !important;
 }
 
-// .masthead .greedy-nav .site-title {
-//   color: #7bbac3 !important;
-// }
 
-.masthead__menu-item a {
-  color: #7bbac3 !important;
+.greedy-nav .visible-links a:hover::before {
+  background: $masthead-link-color-hover;
+}
+
+.masthead__menu .visible-links a {
+  font-weight: bold;
+}
+
+.page__footer-follow {
+  display: none !important;
+}
+
+.greedy-nav .site-title {
+  display: none;
+}
+
+// custom styles
+
+.page__content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-rounded {
+  border-radius: 30px;
+}
+
+.contacts-table {
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+.contacts-table td {
+  padding: 0.3em 5em 0.3em 0;
+  border: none;
+  vertical-align: top;
+}
+
+.contacts-table td:last-child {
+  padding-right: 0;
 }

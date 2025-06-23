@@ -1,14 +1,17 @@
-title: DReaMS
-description: Research Software Management for UMCs
+title: "DReaMS"
+description: "Dutch Research and Medical Software"
 url: "https://dreams-community.github.io"
 baseurl: ""
+
+logo: /assets/images/logo.png
+logo_alt: "DReaMS"
 
 theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-include-cache
-  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-target-blank
 
 markdown: kramdown
 kramdown:
