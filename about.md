@@ -8,7 +8,7 @@ permalink: /about/
 
 DReaMS is the research software management community of Dutch UMCs. It aims to identify shared challenges, collaborate on solutions, and exchange knowledge. Operating at the intersection of institutions and (inter)national organizations, we hope to provide an entry point for decentral research software engineers while also providing a collective voice for engaging with supra-institutional initiatives.
 
-## Our prirorities
+## Our priorities
 
 The first DReaMS meetup brought together DCCs, national infrastructure partners, and the eScience Center to address the need for formal software management in medical research. While data stewardship is well-developed, software practices are still fragmented. The group identified five priorities:
 
