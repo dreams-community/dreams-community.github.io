@@ -6,7 +6,7 @@ permalink: /contact/
 <table class="contacts-table">
   <tr>
     <td><strong>Amsterdam UMC</strong></td>
-    <td><a href="mailto:todo@email.nl">todo@email.nl</a></td>
+    <td><a href="mailto:rdm@amsterdamumc.nl">rdm@amsterdamumc.nl</a></td>
   </tr>
   <tr>
     <td><strong>Erasmus MC</strong></td>
