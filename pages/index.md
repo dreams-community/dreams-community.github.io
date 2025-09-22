@@ -5,7 +5,7 @@ permalink: /
 
 DReaMS (Dutch Research and Medical Software) brings together medical research institutions to promote FAIR, secure, and reproducible research software practices.
 
-It is a collaborative effort between the digital competence centers of all the Dutch UMCs, [eScience Center](https://www.esciencecenter.nl), [Elixir-NL](https://elixir-europe.org/about-us/who-we-are/nodes/netherlands), [Health-RI](https://www.health-ri.nl), and [TDCC-LSH](https://tdcc.nl/about-tddc/lsh/).
+It is a collaborative effort between the digital competence centers of all the Dutch UMCs, [eScience Center](https://www.esciencecenter.nl), [ELIXIR-NL](https://elixir-europe.org/about-us/who-we-are/nodes/netherlands), [Health-RI](https://www.health-ri.nl), and [TDCC-LSH](https://tdcc.nl/about-tddc/lsh/).
 
 
 <img src="/assets/images/content/dreams_network_logos.png" alt="DReaMS Network" width="500" usemap="#dreamsmap">
