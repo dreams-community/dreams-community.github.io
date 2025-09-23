@@ -22,7 +22,7 @@ permalink: /contact/
   </tr>
   <tr>
     <td><strong>Radboud UMC</strong></td>
-    <td><a href="mailto:todo@email.nl">todo@email.nl</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><strong>UMCG</strong></td>
@@ -38,7 +38,7 @@ permalink: /contact/
   </tr>
   <tr>
     <td><strong>Health-RI</strong></td>
-    <td><a href="mailto:todo@email.nl">todo@email.nl</a></td>
+    <td><a href="mailto:info@health-ri.nl">info@health-ri.nl</a></td>
   </tr>
   <tr>
     <td><strong>eScience Center</strong></td>
@@ -46,6 +46,6 @@ permalink: /contact/
   </tr>
   <tr>
     <td><strong>TDCC-LSH</strong></td>
-    <td><a href="mailto:todo@email.nl">todo@email.nl</a></td>
+    <td><a href="mailto:lsh@tdcc.nl">lsh@tdcc.nl</a></td>
   </tr>
 </table>
