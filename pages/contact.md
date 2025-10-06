@@ -21,8 +21,8 @@ permalink: /contact/
     <td><a href="mailto:dec@mumc.nl">dec@mumc.nl</a></td>
   </tr>
   <tr>
-    <td><strong>Radboud UMC</strong></td>
-    <td></td>
+    <td><strong>Radboudumc</strong></td>
+    <td><a href="mailto:datastewardship.im@radboudumc.nl">datastewardship.im@radboudumc.nl</a></td>
   </tr>
   <tr>
     <td><strong>UMCG</strong></td>
