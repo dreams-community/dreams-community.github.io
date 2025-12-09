@@ -28,7 +28,7 @@ connect, share updates, and explore key topics. The discussions focused on devel
 RSM guidelines, strategies for software sustainability, providing training, and identifying
 connection points to strengthen joint efforts.
 
-<img src="assets/images/content/second_meetup.JPG" alt="Second DReaMS meetup" class="img-rounded">
+<img src="assets/images/content/second_meetup.png" alt="Second DReaMS meetup" class="img-rounded">
 
 ### Towards Research Software Management Guidelines for Dutch UMCs
 
