@@ -18,10 +18,13 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+# collections:
+#   pages:
+#     output: true
+#     permalink: /:path/
+
+include:
+  - _pages
 
 defaults:
   - scope:
