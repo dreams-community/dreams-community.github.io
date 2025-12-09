@@ -3,7 +3,7 @@ title: Strengthening Research Software Management in Dutch UMCs: Highlights from
 permalink: /blog/second-meetup/
 ---
 
-# Strengthening Research Software Management in Dutch UMCs: Highlights from the Second DReaMS Community Meetup
+## Strengthening Research Software Management in Dutch UMCs: Highlights from the Second DReaMS Community Meetup
 
 > Written by Anna Niehues, Özgün Balaban, Magnus Palmblad, Mariia Steeghs-Turchina, and the DReaMS Community
 
@@ -30,7 +30,7 @@ connection points to strengthen joint efforts.
 
 <img src="/assets/images/content/secong_meetup.JPG" alt="Second DReaMS meetup" class="img-rounded">
 
-## Towards Research Software Management Guidelines for Dutch UMCs
+### Towards Research Software Management Guidelines for Dutch UMCs
 
 During the session on Research Software Management Guidelines, co-chaired by Mariia
 Steeghs-Turchina and Carlos Martinez, participants identified common questions
@@ -58,7 +58,7 @@ and a regular presence at institutional events. Other outreach approaches includ
 newsletters, intranet pages, and departmental presentations. Maintaining visibility and
 aligning with existing support structures is essential.
 
-## Research Software Sustainability: Long-term Maintenance and Reusability
+### Research Software Sustainability: Long-term Maintenance and Reusability
 
 During the breakout session on research software sustainability, which was co-chaired by
 Magnus Palmblad and Sietse Rispens, the challenges of maintaining software, especially
@@ -81,7 +81,7 @@ how to use Git or how to contribute to community projects is essential. Journal 
 be encouraged to consider such contributions as potentially equally novel and useful as
 stand-alone software.
 
-## Research Software Training Through the Lens of FAIR and Open Science
+### Research Software Training Through the Lens of FAIR and Open Science
 
 While the first DReaMS meetup in 2024 identified a lack of intermediate-level training as a
 key challenge, this year’s breakout session on software training, co-chaired by Özgün
