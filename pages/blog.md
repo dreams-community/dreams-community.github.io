@@ -3,11 +3,6 @@ title: Blog
 permalink: /blog/
 ---
 
----
-title: Strengthening Research Software Management in Dutch UMCs: Highlights from the Second DReaMS Community Meetup
-permalink: /blog/second-meetup/
----
-
 > Written by Anna Niehues, Özgün Balaban, Magnus Palmblad, Mariia Steeghs-Turchina, and the DReaMS Community
 
 [DReaMS](https://dreams-community.github.io/about/) is a collaborative community formed by Digital Competence Centers (DCCs) from
