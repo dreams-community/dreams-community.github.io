@@ -107,3 +107,7 @@ software is that initiatives are fragmented, resulting in uneven coverage across
 development lifecycle. A more coherent approach is required to address this, involving clear
 policies, long-term planning, secure funding and a sufficient workforce aligned with
 institutional project needs.
+
+-----
+
+This blog is cross-posted on the [Netherlands eScience Center blog](https://blog.esciencecenter.nl/strengthening-research-software-management-in-dutch-umcs-highlights-from-the-second-dreams-ee2c8d12f243).
