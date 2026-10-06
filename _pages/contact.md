@@ -49,3 +49,8 @@ permalink: /contact/
     <td><a href="mailto:lsh@tdcc.nl">lsh@tdcc.nl</a></td>
   </tr>
 </table>
+
+## Join us
+
+Interested in joining DReaMS? We meet online every month and we would love to have you over!
+Via this [form](https://forms.cloud.microsoft/e/0V5tHg1pWP) you can ask to join.
